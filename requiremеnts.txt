@@ -1,0 +1,6 @@
+import requests
+from pprint import pprint
+from datetime import date
+import json
+
+vk api = vk1.a.0mHwC1wWYBAAEd6xNqb67MVQx-1q_qVm6FSevPQEAMRkwJmgwQLpEcdclAHg6kPdhWUAwWijoWBCrLlmITJ9b7SyCRpkg36Uz8c6IzL_8P6w35JfiAB0LazFmiPNGczfTN_smx6f3JxVqWfKJi6u8SOCPJ251r0BZqb6rKlK7BWrPGG1hIDJGIxWiDy40VQy
